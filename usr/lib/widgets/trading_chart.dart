@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import '../../models/candle.dart';
-import '../../services/mock_trading_service.dart';
+import '../models/candle.dart';
+import '../services/mock_trading_service.dart';
 
 class TradingChart extends StatefulWidget {
   const TradingChart({super.key});

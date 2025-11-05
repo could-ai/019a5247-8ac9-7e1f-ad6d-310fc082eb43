@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import '../../models/trade_signal.dart';
-import '../../services/mock_trading_service.dart';
+import '../models/trade_signal.dart';
+import '../services/mock_trading_service.dart';
 
 class SignalFeed extends StatefulWidget {
   const SignalFeed({super.key});
